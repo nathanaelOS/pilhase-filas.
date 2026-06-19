@@ -6,7 +6,8 @@ Implementação prática das estruturas de dados **Pilha** e **Fila** em C.
 
 - Pilha: Pilha de livros — simula o empilhamento e desempilhamento de livros físicos
 - Fila: Fila de atendimento — simula uma fila de caixa com geração de senha
-- ## Funcionalidades
+
+ ## Funcionalidades
 
 ### Pilha de Livros
 - Empilhar livro
