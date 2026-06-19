@@ -18,7 +18,6 @@ A pilha segue: o último livro colocado é o primeiro a ser retirado.
 - Não permite busca eficiente: para encontrar um livro específico, seria necessário desempilhar todos acima dele
 - Não reflete bem cenários reais complexos: em uma biblioteca real, livros são acessados de qualquer posição
 
----
 
 ## Fila, Aplicação: Fila de Atendimento
 

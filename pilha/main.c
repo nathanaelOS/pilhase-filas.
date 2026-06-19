@@ -10,7 +10,7 @@ int main() {
 
     inicializar(&p);
 
-    printf("=== Pilha de Livros ===\n");
+    printf("Pilha de Livros\n");
 
     do {
         printf("\n1. Empilhar livro\n");
@@ -46,7 +46,7 @@ int main() {
             default:
                 printf("Opcao invalida.\n");
         }
-    } while (opcao != 0);
+    } while +(opcao != 0);
 
     return 0;
 }

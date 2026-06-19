@@ -10,7 +10,7 @@ int main() {
 
     inicializar(&f);
 
-    printf("=== Fila de Atendimento ===\n");
+    printf(" Fila de Atendimento \n");
 
     do {
         printf("\n1. Entrar na fila\n");

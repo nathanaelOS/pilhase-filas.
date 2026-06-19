@@ -56,11 +56,10 @@ void exibir_fila(Fila *f) {
         printf("A fila esta vazia.\n");
         return;
     }
-    printf("\n--- Fila de Atendimento ---\n");
+    printf("\n Fila de Atendimento \n");
     printf("Posicao | Senha | Nome\n");
     for (int i = 0; i < f->tamanho; i++) {
         int idx = (f->inicio + i) % MAX;
         printf("   %d    |  %03d  | %s\n", i + 1, f->clientes[idx].senha, f->clientes[idx].nome);
     }
-    printf("---------------------------\n");
 }

@@ -49,9 +49,9 @@ void exibir_pilha(Pilha *p) {
         printf("A pilha esta vazia.\n");
         return;
     }
-    printf("\n--- Pilha de Livros (topo -> base) ---\n");
+    printf("\n Pilha de Livros (topo -> base)\n");
     for (int i = p->topo; i >= 0; i--) {
         printf("[%d] %s\n", i + 1, p->livros[i].titulo);
     }
-    printf("--------------------------------------\n");
+
 }
