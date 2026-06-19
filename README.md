@@ -22,12 +22,12 @@ Implementação prática das estruturas de dados **Pilha** e **Fila** em C.
 
 ## Compilação e Execução
 
+
 Pilha de Livros
 ````bash
 cd pilha
 gcc pilha.c main.c -o pilha
 ./pilha
-
 Fila de Atendimento
 ````bash
 cd fila
