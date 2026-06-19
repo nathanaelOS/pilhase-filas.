@@ -20,7 +20,8 @@ Implementação prática das estruturas de dados **Pilha** e **Fila** em C.
 - Ver quem é o próximo
 - Exibir toda a fila
 
-### Compilação e Execução
+## Compilação e Execução
+
 
 ## Pilha de Livros
 ````bash
